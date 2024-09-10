@@ -1,0 +1,55 @@
+body {
+    margin-left: 35%;
+}
+
+.form {
+    width: 500px;
+    background-color: antiquewhite;
+}
+
+.text {
+    text-transform: uppercase;
+}
+
+.input {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.title {
+    padding: 5px;
+    font-size: 20px;
+    color: darkmagenta;
+}
+
+.field {
+    padding: 10px;
+}
+
+#email, #password {
+    width: 95%;
+    padding: 8px;
+}
+
+.size {
+    width: 95%;
+    padding: 10px;
+}
+
+.button {
+    text-align: center;
+}
+
+.but {
+    font-size: 15px;
+}
+
+.error {
+    color: red;
+}
+.login{
+    font-size: 20px;
+    margin-top: 2%;
+    margin-left: 15%;
+}
